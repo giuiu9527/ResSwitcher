@@ -7,7 +7,7 @@ Windows 显示分辨率切换工具，**支持输入任意自定义分辨率**�
 
 ## 下载
 
-到 [Releases](../../releases) 下载 `分辨率切换器.exe`，双击运行（会请求管理员权限，点「是」）。
+到 [Releases](../../releases) 下载 `ResSwitcher-vX.Y.Z.exe`，双击运行（会请求管理员权限，点「是」）。
 不需要安装 Python，单文件。
 
 ## 功能
